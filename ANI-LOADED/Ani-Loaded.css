@@ -59,6 +59,11 @@ body{
     padding-bottom: 0;
 }
 
+.user-drop-down-arrow:hover {
+    color:rgb(233, 116, 0);
+    cursor: pointer;
+}
+
 .users-title {
     display: flex;
     padding-left: 7px;
